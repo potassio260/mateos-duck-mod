@@ -22,7 +22,7 @@ This mod completely overhauls your poultry experience. It handles all kinds of d
 
 * **New Items & Blocks:** Introduces custom spawn eggs, layable eggs, customizable duck nests, and the ability to cook duck meat.
 
-
+   <img src="screenshots/minecraftDucks.png" width="800"/>
 
 ## Tech Stack
 
