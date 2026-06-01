@@ -15,19 +15,21 @@ This mod completely overhauls your poultry experience. It handles all kinds of d
 
 * **Language:** Java
 * **Framework:** Minecraft Forge 1.20.1
-* **Modeling & Animation:** Blockbench *(Standard for custom entities)*
+* **Modeling & Animation:** Blockbench
 
 ## Installation & Setup
 
-*(Work in Progress)*
+Players can install the mod using these standard steps:
+1. Download and install [Minecraft Forge for 1.20.1].
+```1.20.1 Forge
+https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html
+```
+3. Download this mod's `.jar` release file.
+```
 
-*Note: Forge mods for Minecraft Java Edition are distributed as `.jar` files, not `.apk` files (which are for Bedrock/Android).*
-
-Once fully released, players can install the mod using these standard steps:
-1. Download and install [Minecraft Forge for 1.20.1](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html).
-2. Download this mod's `.jar` release file.
-3. Place the downloaded `.jar` file into the `%appdata%\.minecraft\mods` folder.
-4. Launch Minecraft using the Forge 1.20.1 profile.
+```
+5. Place the downloaded `.jar` file into the `%appdata%\.minecraft\mods` folder.
+6. Launch Minecraft using the Forge 1.20.1 profile.
 
 ## Credits
 
