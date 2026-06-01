@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "robomod:chronosteel_ingot"
+    },
+    "F": {
+      "item": "minecraft:firework_rocket"
+    },
+    "C": {
+      "item": "minecraft:iron_chestplate"
+    },
+    "G": {
+      "item": "robomod:solid_fuel_generator"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "FCF",
+    "SGS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:jetpack_module"
+  }
+}

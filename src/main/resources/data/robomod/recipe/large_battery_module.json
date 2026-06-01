@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "item": "robomod:extra_battery_module"
+    },
+    "S": {
+      "item": "robomod:chronosteel_block"
+    },
+    "B": {
+      "item": "robomod:battery_block"
+    }
+  },
+  "pattern": [
+    "SES",
+    "EBE",
+    "SES"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:large_battery_module"
+  }
+}

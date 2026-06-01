@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "robomod:solid_fuel_generator",
+    "robomod:controller",
+    "robomod:assembler",
+    "robomod:solar_panel",
+    "robomod:advanced_solar_panel",
+    "robomod:charging_pad",
+    "robomod:chronosteel_block"
+  ]
+}

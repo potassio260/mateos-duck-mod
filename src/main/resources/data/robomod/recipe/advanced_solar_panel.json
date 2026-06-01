@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "robomod:chronosteel_block"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "B": {
+      "item": "robomod:extra_battery_module"
+    },
+    "P": {
+      "item": "robomod:solar_panel"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "SBS",
+    "SRS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:advanced_solar_panel"
+  }
+}

@@ -1,0 +1,85 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"3": "robomod:item/advanced_cyborg"
+	},
+	"elements": [
+		{
+			"name": "Body",
+			"from": [4, 6, 6],
+			"to": [12, 12, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -12, 8]},
+			"faces": {
+				"north": {"uv": [1, 9, 3, 10.5], "texture": "#3"},
+				"east": {"uv": [0, 9, 1, 10.5], "texture": "#3"},
+				"south": {"uv": [4, 9, 6, 10.5], "texture": "#3"},
+				"west": {"uv": [3, 9, 4, 10.5], "texture": "#3"},
+				"up": {"uv": [3, 9, 1, 8], "texture": "#3"},
+				"down": {"uv": [5, 8, 3, 9], "texture": "#3"}
+			}
+		},
+		{
+			"name": "Body",
+			"from": [5, 3, 7],
+			"to": [11, 6, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -12, 8]},
+			"faces": {
+				"north": {"uv": [8.5, 12.5, 10, 13.25], "texture": "#3"},
+				"east": {"uv": [8, 12.5, 8.5, 13.25], "texture": "#3"},
+				"south": {"uv": [10.5, 12.5, 12, 13.25], "texture": "#3"},
+				"west": {"uv": [10, 12.5, 10.5, 13.25], "texture": "#3"},
+				"up": {"uv": [10, 12.5, 8.5, 12], "texture": "#3"},
+				"down": {"uv": [11.5, 12, 10, 12.5], "texture": "#3"}
+			}
+		},
+		{
+			"name": "Body",
+			"from": [4, 0, 6],
+			"to": [12, 3, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -12, 8]},
+			"faces": {
+				"north": {"uv": [7, 9, 9, 9.75], "texture": "#3"},
+				"east": {"uv": [6, 9, 7, 9.75], "texture": "#3"},
+				"south": {"uv": [10, 9, 12, 9.75], "texture": "#3"},
+				"west": {"uv": [9, 9, 10, 9.75], "texture": "#3"},
+				"up": {"uv": [9, 9, 7, 8], "texture": "#3"},
+				"down": {"uv": [11, 8, 9, 9], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, -45, 0],
+			"translation": [0, 2.5, 1],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -45, 0],
+			"translation": [1.5, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, 140, 0],
+			"translation": [0, 1.25, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "body",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "H": {
+      "item": "robomod:basic_cyborg_body"
+    },
+    "B": {
+      "item": "robomod:battery"
+    }
+  },
+  "pattern": [
+    "IBI",
+    "DHD",
+    "IBI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:advanced_cyborg_body"
+  }
+}

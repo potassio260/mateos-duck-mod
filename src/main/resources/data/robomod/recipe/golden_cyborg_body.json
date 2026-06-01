@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:gold_ingot"
+    },
+    "H": {
+      "item": "robomod:basic_cyborg_body"
+    },
+    "B": {
+      "item": "robomod:battery"
+    }
+  },
+  "pattern": [
+    "IBI",
+    "IHI",
+    "IBI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:golden_cyborg_body"
+  }
+}

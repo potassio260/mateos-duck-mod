@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "robomod:chronosteel_ingot"
+    },
+    "H": {
+      "item": "minecraft:iron_helmet"
+    },
+    "B": {
+      "item": "robomod:battery"
+    },
+    "S": {
+      "item": "robomod:solar_cell"
+    },
+    "P": {
+      "item": "robomod:solar_panel"
+    }
+  },
+  "pattern": [
+    "SPS",
+    "BHB",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:solar_cell_module"
+  }
+}

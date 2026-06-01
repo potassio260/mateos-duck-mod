@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "robomod:advanced_cyborg_head",
+    "robomod:advanced_cyborg_arm",
+    "robomod:advanced_cyborg_body",
+    "robomod:advanced_cyborg_leg"
+  ]
+}

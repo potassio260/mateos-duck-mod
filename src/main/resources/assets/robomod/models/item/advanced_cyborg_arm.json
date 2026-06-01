@@ -1,0 +1,100 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "robomod:item/advanced_cyborg"
+	},
+	"elements": [
+		{
+			"name": "Right Arm",
+			"from": [6, 5, 6.5],
+			"to": [7, 9, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, -12, 8]},
+			"faces": {
+				"north": {"uv": [0.75, 13.5, 1, 14.5], "texture": "#1"},
+				"east": {"uv": [0, 13.5, 0.75, 14.5], "texture": "#1"},
+				"south": {"uv": [1.75, 13.5, 2, 14.5], "texture": "#1"},
+				"west": {"uv": [1, 13.5, 1.75, 14.5], "texture": "#1"},
+				"up": {"uv": [1, 13.5, 0.75, 12.75], "texture": "#1"},
+				"down": {"uv": [1.25, 12.75, 1, 13.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Right Arm",
+			"from": [8, 5, 6.5],
+			"to": [9, 9, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, -12, 8]},
+			"faces": {
+				"north": {"uv": [2.75, 13.5, 3, 14.5], "texture": "#1"},
+				"east": {"uv": [2, 13.5, 2.75, 14.5], "texture": "#1"},
+				"south": {"uv": [3.75, 13.5, 4, 14.5], "texture": "#1"},
+				"west": {"uv": [3, 13.5, 3.75, 14.5], "texture": "#1"},
+				"up": {"uv": [3, 13.5, 2.75, 12.75], "texture": "#1"},
+				"down": {"uv": [3.25, 12.75, 3, 13.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6, 9, 6],
+			"to": [10, 12, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, -12, 8]},
+			"faces": {
+				"north": {"uv": [13, 5.5, 14, 6.25], "texture": "#1"},
+				"east": {"uv": [12, 5.5, 13, 6.25], "texture": "#1"},
+				"south": {"uv": [15, 5.5, 16, 6.25], "texture": "#1"},
+				"west": {"uv": [14, 5.5, 15, 6.25], "texture": "#1"},
+				"up": {"uv": [14, 5.5, 13, 4.5], "texture": "#1"},
+				"down": {"uv": [15, 4.5, 14, 5.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6, 0, 6],
+			"to": [10, 5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, -12, 8]},
+			"faces": {
+				"north": {"uv": [7, 10.75, 8, 12], "texture": "#1"},
+				"east": {"uv": [6, 10.75, 7, 12], "texture": "#1"},
+				"south": {"uv": [9, 10.75, 10, 12], "texture": "#1"},
+				"west": {"uv": [8, 10.75, 9, 12], "texture": "#1"},
+				"up": {"uv": [8, 10.75, 7, 9.75], "texture": "#1"},
+				"down": {"uv": [9, 9.75, 8, 10.75], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, -45, 0],
+			"translation": [0, 2.5, 1.5],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -45, 0],
+			"translation": [1.75, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, 140, 0],
+			"translation": [0, 1, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"rotation": [0, -180, 0]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "right_arm",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

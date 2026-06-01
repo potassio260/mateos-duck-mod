@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "robomod:chronosteel_ingot"
+    },
+    "C": {
+      "item": "minecraft:golden_carrot"
+    },
+    "B": {
+      "item": "robomod:battery"
+    },
+    "L": {
+      "item": "minecraft:redstone_lamp"
+    }
+  },
+  "pattern": [
+    "SLS",
+    "CBC",
+    "SLS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:night_vision_module"
+  }
+}

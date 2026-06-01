@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "robomod:block/solid_fuel_generator_front_on",
+    "side": "robomod:block/solid_fuel_generator_side",
+    "top": "robomod:block/solid_fuel_generator_top"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "robomod:chronosteel_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "B": {
+      "item": "robomod:battery"
+    },
+    "S": {
+      "item": "robomod:solar_cell"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "ABA",
+    "ARA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:solar_panel"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "robomod:block/battery_test" }
+  }
+}

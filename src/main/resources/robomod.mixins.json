@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mateo.robomod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "plugin": "net.mateo.robomod.RoboModMixins",
+  "mixins": [
+    "ServerPlayerMixin",
+    "ServerPlayNetworkHandlerMixin",
+    "accessor.LivingEntityAccessor"
+  ],
+  "client": [
+    "ClientPlayerMixin",
+    "ClientPlayerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

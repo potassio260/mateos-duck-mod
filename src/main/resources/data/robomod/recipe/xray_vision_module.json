@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "robomod:chronosteel_block"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "B": {
+      "item": "robomod:large_battery_module"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "N": {
+      "item": "robomod:night_vision_module"
+    }
+  },
+  "pattern": [
+    "SAS",
+    "BNB",
+    "DAD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:xray_vision_module"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "robomod:battery_block"
+        }
+      ],
+      "functions": [
+        {
+          "source": "block_entity",
+          "include": [
+            "robomod:energy_stored"
+          ],
+          "function": "minecraft:copy_components"
+        }
+      ],
+
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "robomod:blocks/battery_block"
+}
