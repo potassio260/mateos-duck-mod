@@ -1,0 +1,11 @@
+{
+    "item.duckmod.raw_duck": "Raw Duck",
+    "item.duckmod.cooked_duck": "Roast Duck",
+    "item.duckmod.duck_spawn_egg": "Duck Spawn Egg",
+    "item.duckmod.goose_spawn_egg": "Goose Spawn Egg",
+    "item.duckmod.duck_egg": "Duck Egg",
+
+    "block.duckmod.nest_block": "Nest",
+
+    "entity.duckmod.duck": "Duck"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "eggs=0": {
+      "model": "duckmod:block/nest_block"
+    },
+    "eggs=1": {
+      "model": "duckmod:block/nest_block_1_eggs"
+    },
+    "eggs=2": {
+      "model": "duckmod:block/nest_block_2_eggs"
+    },
+    "eggs=3": {
+      "model": "duckmod:block/nest_block_3_eggs"
+    },
+    "eggs=4": {
+      "model": "duckmod:block/nest_block_4_eggs"
+    }
+  }
+}

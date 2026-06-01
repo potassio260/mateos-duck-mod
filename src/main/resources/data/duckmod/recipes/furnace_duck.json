@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "duckmod:raw_duck"
+  },
+  "result": "duckmod:cooked_duck",
+  "experience": 0.35,
+  "cookingtime": 200
+}

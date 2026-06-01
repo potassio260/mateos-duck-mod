@@ -1,0 +1,86 @@
+{
+  "female_quack_1": {
+    "subtitle": "subtitles.duckmod.duck_quack",
+    "sounds": [
+      "duckmod:entity/duck/female_quack_1"
+    ]
+  },
+  "female_quack_2": {
+    "subtitle": "subtitles.duckmod.duck_quack",
+    "sounds": [
+      "duckmod:entity/duck/female_quack_2"
+    ]
+  },
+  "male_quack_1": {
+    "subtitle": "subtitles.duckmod.duck_quack",
+    "sounds": [
+      "duckmod:entity/duck/male_quack_1"
+    ]
+  },
+  "male_quack_2": {
+    "subtitle": "subtitles.duckmod.duck_quack",
+    "sounds": [
+      "duckmod:entity/duck/male_quack_2"
+    ]
+  },
+  "male_quack_3": {
+    "subtitle": "subtitles.duckmod.duck_quack",
+    "sounds": [
+      "duckmod:entity/duck/male_quack_3"
+    ]
+  },
+  "duck_hiss": {
+    "subtitle": "subtitles.duckmod.duck_hiss",
+    "sounds": [
+      "duckmod:entity/duck/duck_hiss"
+    ]
+  },
+  "duck_eating": {
+    "subtitle": "subtitles.duckmod.duck_eating",
+    "sounds": [
+      "duckmod:entity/duck/duck_eating"
+    ]
+  },
+  "hit_female_duck": {
+    "subtitle": "subtitles.duckmod.duck_hurt",
+    "sounds": [
+      "duckmod:entity/duck/hit_female_duck"
+    ]
+  },
+  "hit_male_duck": {
+    "subtitle": "subtitles.duckmod.duck_hurt",
+    "sounds": [
+      "duckmod:entity/duck/hit_male_duck"
+    ]
+  },
+  "death_female_duck_1": {
+    "subtitle": "subtitles.duckmod.duck_death",
+    "sounds": [
+      "duckmod:entity/duck/death_female_duck_1"
+    ]
+  },
+  "death_female_duck_2": {
+    "subtitle": "subtitles.duckmod.duck_death",
+    "sounds": [
+      "duckmod:entity/duck/death_female_duck_2"
+    ]
+  },
+  "death_male_duck_1": {
+    "subtitle": "subtitles.duckmod.duck_death",
+    "sounds": [
+      "duckmod:entity/duck/death_male_duck_1"
+    ]
+  },
+  "death_male_duck_2": {
+    "subtitle": "subtitles.duckmod.duck_death",
+    "sounds": [
+      "duckmod:entity/duck/death_male_duck_2"
+    ]
+  },
+  "rare_deathsound": {
+    "subtitle": "subtitles.duckmod.duck_death",
+    "sounds": [
+      "duckmod:entity/duck/rare_deathsound"
+    ]
+  }
+}
