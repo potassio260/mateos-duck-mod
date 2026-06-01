@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " I ",
+    "IRI",
+    " I "
+  ],
+  "result": {
+    "count": 3,
+    "id": "robomod:battery"
+  }
+}

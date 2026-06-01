@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "robomod:chronosteel_ingot"
+    },
+    "B": {
+      "item": "robomod:battery"
+    }
+  },
+  "pattern": [
+    " C ",
+    "CBC",
+    " C "
+  ],
+  "result": {
+    "count": 4,
+    "id": "robomod:energy_wire"
+  }
+}

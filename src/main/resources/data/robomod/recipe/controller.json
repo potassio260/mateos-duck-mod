@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "S": {
+      "item": "robomod:chronosteel_ingot"
+    },
+    "B": {
+      "item": "robomod:battery"
+    },
+    "L": {
+      "item": "minecraft:lever"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "BLB",
+    "IRI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:controller"
+  }
+}

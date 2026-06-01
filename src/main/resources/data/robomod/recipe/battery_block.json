@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "S": {
+      "item": "robomod:chronosteel_ingot"
+    },
+    "B": {
+      "item": "robomod:battery"
+    }
+  },
+  "pattern": [
+    "BSB",
+    "BRB",
+    "BSB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:battery_block"
+  }
+}

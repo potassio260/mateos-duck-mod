@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "B": {
+      "item": "robomod:battery"
+    }
+  },
+  "pattern": [
+    "C",
+    "B",
+    "I"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:basic_cyborg_arm"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "O": {
+      "item": "minecraft:coal"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "OOO",
+    "III"
+  ],
+  "result": {
+    "count": 3,
+    "id": "robomod:chronosteel_ingot"
+  }
+}

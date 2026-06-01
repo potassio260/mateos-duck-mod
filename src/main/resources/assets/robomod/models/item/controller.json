@@ -1,0 +1,6 @@
+{
+  "parent": "robomod:block/controller",
+  "textures": {
+    "6": "robomod:block/controller_active"
+  }
+}

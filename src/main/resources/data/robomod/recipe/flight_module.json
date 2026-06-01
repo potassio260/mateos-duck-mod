@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "item": "minecraft:elytra"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "pattern": [
+    "ENE",
+    "ESE",
+    "ENE"
+  ],
+  "result": {
+    "count": 1,
+    "id": "robomod:flight_module"
+  }
+}

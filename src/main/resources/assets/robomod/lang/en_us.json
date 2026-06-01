@@ -1,0 +1,52 @@
+{
+  "container.robomod.solid_fuel_generator": "Solid Fuel Generator",
+  "container.robomod.assembler": "Assembler",
+
+  "itemGroup.robomod.items": "robomod Items",
+  "itemGroup.robomod.debug_items": "Debug robomod Items",
+
+  "item.robomod.jetpack_module": "Jetpack Module",
+  "item.robomod.flight_module": "Flight Module",
+  "item.robomod.extra_battery_module": "Extra Battery Module",
+  "item.robomod.large_battery_module": "Large Battery Module",
+  "item.robomod.creative_battery_module": "Creative Battery Module",
+  "item.robomod.battery": "Battery",
+  "item.robomod.solar_cell_module": "Solar Cell Module",
+  "item.robomod.solar_cell": "Solar Cell",
+  "item.robomod.night_vision_module": "Night Vision Module",
+  "item.robomod.xray_vision_module": "X-Ray Vision Module",
+  "item.robomod.chronosteel_ingot": "Chronosteel Ingot",
+  "item.robomod.extra_health_module": "Extended Health Module",
+  "item.robomod.retreat_module": "Retreat Module",
+
+  "item.robomod.basic_cyborg_head": "Basic Cyborg Head",
+  "item.robomod.basic_cyborg_body": "Basic Cyborg Body",
+  "item.robomod.basic_cyborg_arm": "Basic Cyborg Arm",
+  "item.robomod.basic_cyborg_leg": "Basic Cyborg Leg",
+
+  "item.robomod.golden_cyborg_head": "Golden Cyborg Head",
+  "item.robomod.golden_cyborg_body": "Golden Cyborg Body",
+  "item.robomod.golden_cyborg_arm": "Golden Cyborg Arm",
+  "item.robomod.golden_cyborg_leg": "Golden Cyborg Leg",
+
+  "item.robomod.advanced_cyborg_head": "Advanced Cyborg Head",
+  "item.robomod.advanced_cyborg_body": "Advanced Cyborg Body",
+  "item.robomod.advanced_cyborg_arm": "Advanced Cyborg Arm",
+  "item.robomod.advanced_cyborg_leg": "Advanced Cyborg Leg",
+
+  "item.robomod.debug_energy_stick": "Debug Energy Stick",
+
+  "block.robomod.controller": "Controller",
+  "block.robomod.assembler": "Assembler",
+  "block.robomod.energy_wire": "Energy Wire",
+  "block.robomod.solar_panel": "Solar Panel",
+  "block.robomod.advanced_solar_panel": "Advanced Solar Panel",
+  "block.robomod.charging_pad": "Charging Pad",
+  "block.robomod.solid_fuel_generator": "Solid Fuel Generator",
+  "block.robomod.battery_block": "Battery Block",
+  "block.robomod.chronosteel_block": "Chronosteel Block",
+
+  "block.robomod.energy_generator": "Debug Energy Generator",
+  "block.robomod.energy_receiver": "Debug Energy Receiver",
+  "block.robomod.battery_test": "Debug Battery"
+}

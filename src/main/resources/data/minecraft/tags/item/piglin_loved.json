@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "robomod:golden_cyborg_head",
+    "robomod:golden_cyborg_body",
+    "robomod:golden_cyborg_arm",
+    "robomod:golden_cyborg_leg"
+  ]
+}

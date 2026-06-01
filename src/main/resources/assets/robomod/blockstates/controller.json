@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "robomod:block/controller",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "robomod:block/controller"
+    },
+    "facing=south": {
+      "model": "robomod:block/controller",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "robomod:block/controller",
+      "y": 270
+    }
+  }
+}

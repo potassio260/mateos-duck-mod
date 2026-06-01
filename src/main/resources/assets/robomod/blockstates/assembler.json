@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "robomod:block/assembler",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "robomod:block/assembler"
+    },
+    "facing=south": {
+      "model": "robomod:block/assembler",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "robomod:block/assembler",
+      "y": 270
+    }
+  }
+}

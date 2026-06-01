@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "robomod:block/energy_generator" }
+  }
+}
