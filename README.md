@@ -1,2 +1,15 @@
-# mateos-duck-mod
-A small but detailed mod which adds loads of species of ducks to your world. As a duck lover myself, I couldn't really find one up to my liking... so I made it myself!
+﻿# Minecraft Forge 1.20.1 Duck Mod
+
+In process
+
+## Features
+
+In process
+                   
+## Tech Stack
+
+In process
+
+## Installation & Setup
+
+In process
